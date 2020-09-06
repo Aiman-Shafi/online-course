@@ -1,0 +1,109 @@
+[{
+    "name": "The Complete 2020 Web Development Bootcamp",
+    "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+    "rating": 3,
+    "hours": 26,
+    "lectures": 119,
+    "price":100,
+    "img": "https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg",
+    "avatar": "https://robohash.org/earumvoluptasaut.jpg?size=50x50&set=set1"
+  }, {
+    "name": "Beginner Full Stack Web Development: HTML, CSS, React & Node",
+    "description": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+    "rating": 4,
+    "hours": 12,
+    "lectures": 193,
+    "price":70,
+    "img": "https://img-a.udemycdn.com/course/240x135/1042110_ffc3_4.jpg",
+    "avatar": "https://robohash.org/etaddolores.bmp?size=50x50&set=set1"
+  }, {
+    "name": "Django 2.2 & Python | The Ultimate Web Development Bootcamp",
+    "description": "Build three complete websites, learn back and front-end web development, and publish your site online with DigitalOcean",
+    "rating": 5,
+    "hours": 5,
+    "lectures": 236,
+    "price":75,
+    "img": "https://img-a.udemycdn.com/course/240x135/1562632_a245_2.jpg",
+    "avatar": "https://robohash.org/suntbeataedolore.png?size=50x50&set=set1"
+  }, {
+    "name": "Learn JavaScript for Web Development",
+    "description": "Advance your Web Development Skills By Learning Javascript from JavaScript Expert! ",
+    "rating": 4,
+    "hours": 21,
+    "lectures": 176,
+    "price":90,
+    "img": "https://img-a.udemycdn.com/course/240x135/917724_114b_12.jpg",
+    "avatar": "https://robohash.org/etexplicaboculpa.bmp?size=50x50&set=set1"
+  }, {
+    "name": "The Complete Digital Marketing Course",
+    "description": "TMaster Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+    "rating": 4,
+    "hours": 20,
+    "lectures": 229,
+    "price":180,
+    "img": "https://img-a.udemycdn.com/course/240x135/914296_3670_8.jpg",
+    "avatar": "https://robohash.org/harumautfacilis.png?size=50x50&set=set1"
+  }, {
+    "name": "SQL for Data Analysis: Weekender Crash Course for Beginners",
+    "description": "Using MySQL but applicable to Oracle SQL, Microsoft SQL Server, and PostgreSQL. Taught by a Data Scientist and PM.",
+    "rating": 4,
+    "hours": 6,
+    "lectures": 83,
+    "price":50,
+    "img": "https://img-a.udemycdn.com/course/240x135/203556_5ff1_3.jpg",
+    "avatar": "https://robohash.org/optiovoluptatesvitae.png?size=50x50&set=set1"
+  }, {
+    "name": "YouTube Masterclass - Your Complete Guide to YouTube",
+    "description": "Complete guide to starting a YouTube channel, getting more views & subscribers, and building a brand with videos!",
+    "rating": 4,
+    "hours": 14,
+    "lectures": 236,
+    "price":120,
+    "img": "https://img-a.udemycdn.com/course/240x135/703140_703a_3.jpg",
+    "avatar": "https://robohash.org/autetquia.bmp?size=50x50&set=set1"
+  }, {
+    "name": "Ultimate Guide To Creating Passive Income Affiliate Stores",
+    "description": "How To Make Killer Affiliate Income From Your Own Aliexpress Affiliate Stores",
+    "rating": 4,
+    "hours": 6,
+    "lectures": 88,
+    "price":95,
+    "img": "https://img-a.udemycdn.com/course/240x135/1306940_0928_4.jpg",
+    "avatar": "https://robohash.org/abteneturconsequuntur.jpg?size=50x50&set=set1"
+  }, {
+    "name": "Affiliate Marketing Master Class Step By Step Guide 2020",
+    "description": "Learn How To Boost Your Affiliate Business Sales, This Step By Step Guide Will Help You to Boost Your Income",
+    "rating": 4,
+    "hours": 29,
+    "lectures": 120,
+    "price":130,
+    "img": "https://img-a.udemycdn.com/course/240x135/1863644_949f.jpg",
+    "avatar": "https://robohash.org/placeatrepellenduseius.bmp?size=50x50&set=set1"
+  }, {
+    "name": "The Complete 2020 Software Testing Bootcamp",
+    "description": "Everything you need to learn about software testing.",
+    "rating": 3,
+    "hours": 21,
+    "lectures": 279,
+    "price":59,
+    "img": "https://img-a.udemycdn.com/course/240x135/2125112_86f5_5.jpg",
+    "avatar": "https://robohash.org/harumquisullam.jpg?size=50x50&set=set1"
+  }, {
+    "name": "Software Development: Better Requirements Gathering Skills",
+    "description": "Boost Your Software Requirements Gathering Skills Today! Learn The Techniques That Work!",
+    "rating": 4,
+    "hours": 20,
+    "lectures": 96,
+    "price":110,
+    "img": "https://img-a.udemycdn.com/course/240x135/688870_c475_2.jpg",
+    "avatar": "https://robohash.org/delenitiabaccusantium.png?size=50x50&set=set1"
+  }, {
+    "name": "Automated Software Testing with Python",
+    "description": "Learn about automated software testing with Python, BDD, Selenium WebDriver, and Postman, focusing on web applications",
+    "rating": 5,
+    "hours": 11,
+    "lectures": 290,
+    "price":100,
+    "img": "https://img-a.udemycdn.com/course/240x135/1319746_e9b5_4.jpg",
+    "avatar": "https://robohash.org/reiciendisquisab.jpg?size=50x50&set=set1"
+  }]
