@@ -16,16 +16,19 @@ const Course = () => {
         console.log(enroll);
     }
     return (
-        <div className='d-flex'>
-           <div className='course-section d-flex flex-wrap'>
-                {
-                    courses.map(allCourse => <CourseSection enrollBtn={enrollBtn} key={Math.random()} course={allCourse}></CourseSection>)
-                }
-           </div>
-           <div className='cart'>
-                <h2><Cart cart={cart}></Cart></h2>
-           </div>
-           <div className="bg-dar">
+        <div >
+            <div className='d-flex'>
+                <div className='course-section d-flex flex-wrap'>
+                        {
+                            courses.map(allCourse => <CourseSection enrollBtn={enrollBtn} key={Math.random()} course={allCourse}></CourseSection>)
+                        }
+                </div>
+                <div className='cart'>
+                        <h2><Cart cart={cart}></Cart></h2>
+                </div>    
+            </div>
+
+           <div className="bg-dark p-2 mt-3">
                <h6 className="text-center text-white">@Developed By Aiman Shafi</h6>
            </div>
         </div>

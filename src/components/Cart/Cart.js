@@ -11,7 +11,7 @@ const Cart = (props) => {
     const totalCost = (extras + totalPrice).toFixed(2);
 
     return (
-        <div>
+        <div className='cart-section'>
             <h3 className='text-center font-weight-bold mb-5'>Enroll Summary</h3>
            <h5>Courses: {cart.length}</h5>
            <h5>VAT: ${extras}</h5> 
